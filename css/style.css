@@ -1,0 +1,73 @@
+@import url("reset.css");
+
+/* * {
+  color: blue;
+} */
+
+/* h1 {
+  color: palevioletred;
+}
+
+a {
+  color: green;
+}
+
+li {
+  color: fuchsia;
+} */
+
+/* .text {
+  color: aqua;
+}
+
+#some-id {
+  color: yellow;
+}
+
+div.about-twitter {
+  color: brown;
+}
+.main-list.list {
+  color: red;
+}
+
+.about-apple,
+.about-google {
+  color: green;
+} */
+
+/* p,
+.about-instagram {
+  color: blue;
+} */
+
+/* .about-twitter a {
+  color: red;
+} */
+
+/* .about-twitter .red-text {
+  color: red;
+} */
+
+/* .about-facebook * {
+  color: aqua;
+}
+.about-instagram > p {
+  color: blue;
+} */
+
+/* .about-instagram ~ p {
+  color: blue;
+} */
+
+/* .about-instagram + p {
+  color: yellow;
+} */
+
+/* .about-instagram > h3 + p {
+  color: aquamarine;
+} */
+
+[class*="__container"] {
+  color: aqua;
+}
